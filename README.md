@@ -10,7 +10,7 @@ This repository showcases my experiments and research in Reinforcement Learning 
 - **Notebooks**:
   - `Rl.ipynb`: Core RL experiments using OpenAI Gym-style environments.
   - `Rlproject.ipynb`: A deep-dive into training results and visualization.
-  - `taha.ipynb`: Personal experimentation notebook.
+  - `rec_module.ipynb`: Personal experimentation notebook.
   
 ## 📄 Reports & Research
 
