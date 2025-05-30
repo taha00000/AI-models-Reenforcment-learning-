@@ -1,0 +1,5 @@
+
+If you're using packages like `numpy`, `tensorflow`, `matplotlib`, etc., generate a requirements file using:
+
+```bash
+pip freeze > requirements.txt
