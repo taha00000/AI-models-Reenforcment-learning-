@@ -11,16 +11,19 @@ This repository showcases my experiments and research in Reinforcement Learning 
   - `Rl.ipynb`: Core RL experiments using OpenAI Gym-style environments.
   - `Rlproject.ipynb`: A deep-dive into training results and visualization.
   - `rec_module.ipynb`: Personal experimentation notebook.
-  
+
 ## 📄 Reports & Research
 
 - `Literature review.pdf`: Summary of key reinforcement learning papers and methods.
 - `Report_IDEM-DQN.docx`: Detailed implementation and experimental results.
 - `IEEE_Conference_Template.pdf`: Research formatted for academic submission.
 
-## 🛠️ How to Run
+## 🧪 Interactive Demo App
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/AI-models-Reenforcment-learning-.git
-   cd AI-models-Reenforcment-learning-
+A simple web app using Streamlit demonstrates how an RL agent navigates a grid world to reach a goal. Useful for interviews and quick showcases.
+
+### 🔧 Run the App Locally
+
+```bash
+pip install -r requirements.txt
+streamlit run app.py
